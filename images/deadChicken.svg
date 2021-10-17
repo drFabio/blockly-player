@@ -9,7 +9,7 @@
    version="1.1"
    y="0px"
    x="0px"
-   sodipodi:docname="chicken.svg"
+   sodipodi:docname="deadChicken.svg"
    width="568.48566"
    height="489.79034"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -30,17 +30,20 @@
    inkscape:pagecheckerboard="0"
    showgrid="false"
    inkscape:zoom="1.2196053"
-   inkscape:cx="295.58742"
-   inkscape:cy="254.59056"
+   inkscape:cx="471.87396"
+   inkscape:cy="63.545147"
    inkscape:window-width="2400"
    inkscape:window-height="1271"
    inkscape:window-x="-9"
    inkscape:window-y="-9"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="g78" />
 <g
    id="g81"
-   transform="matrix(-1,0,0,1,583.25869,-40.143524)">
+   transform="rotate(180,291.62934,264.96694)"
+   inkscape:export-filename="\\wsl$\Ubuntu\home\fabio\workspace\personal\blockly-game-creator\public\images\chicken.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
 	<g
    id="XMLID_2_">
 		<g
@@ -113,9 +116,7 @@
 			<path
    d="m 55.626,157.41 c 3.215,3.858 3.858,11.584 3.858,16.096 1.297,9.002 0.654,18.657 0.654,27.67 0,9.656 -1.94,21.883 1.286,30.896 3.215,7.716 8.359,10.299 16.085,10.942 9.013,0.643 14.156,0.643 19.311,-7.084"
    id="path34" />
-			<path
-   d="m 84.592,142.61 c 4.501,0.643 8.359,3.215 10.942,-2.572 1.286,-3.869 0.643,-7.084 -3.869,-8.37 -2.572,-1.286 -7.716,-2.572 -9.013,0 -1.286,1.93 1.297,9.65 1.94,10.94 z"
-   id="path36" />
+			
 			<path
    d="m 123.85,116.87 c 0.366,-0.288 0.698,-0.632 1.009,-1.031 2.483,-3.104 3.57,-9.057 4.135,-12.493 2.583,-8.359 2.583,-17.371 2.583,-26.384 0,-7.073 -3.226,-13.513 -5.155,-20.597 -1.286,-3.858 -1.929,-8.359 -4.501,-12.227 -2.572,0.643 -3.215,3.869 -3.869,5.798 -3.215,7.084 -6.43,13.513 -9.644,20.597 -4.512,7.716 -7.727,16.728 -12.87,23.812 -5.155,-5.798 -5.798,-15.453 -12.227,-20.597 -2.583,3.215 -2.583,9.013 -3.869,13.513 -1.286,7.727 -5.144,1.286 -9.013,-1.929 -10.287,-9.013 -5.787,15.442 -9.002,19.311 -7.084,-2.583 -11.584,-9.013 -18.668,-11.584 -5.144,7.073 13.513,26.384 18.668,30.885"
    id="path38" />
@@ -177,12 +178,26 @@
    d="m 305.12,460.95 c -8.314,2.383 -23.768,-3.326 -39.254,3.315"
    id="path76" />
 		</g>
-	</g>
+	<path
+   style="fill:#ffdd00;fill-opacity:1;stroke:#ffdd00;stroke-width:0.512461;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 487.22471,392.73369 c 0.0319,-0.6111 0.15318,-1.47278 0.2694,-1.91484 0.54298,-2.06516 1.86176,-3.75176 3.39215,-4.33826 0.34734,-0.13311 0.76487,-0.17565 1.69112,-0.1723 1.23111,0.004 1.37503,0.0275 4.21005,0.67404 l 1.0328,0.23553 -4.41504,2.74313 c -2.42827,1.50873 -4.82533,2.99979 -5.3268,3.31347 l -0.91176,0.57033 z"
+   id="path13180"
+   transform="rotate(-180,291.62934,264.96694)" /><path
+   style="fill:#ffdd00;fill-opacity:1;stroke:#ffdd00;stroke-width:0.512461;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 495.90837,399.59834 c -0.85555,-0.14013 -2.52837,-0.62178 -3.46815,-0.99857 -0.60101,-0.24097 -1.2657,-0.49475 -1.47709,-0.56396 -0.21139,-0.0692 -0.38435,-0.16387 -0.38435,-0.21035 0,-0.0907 9.37423,-5.94664 9.51936,-5.94664 0.0477,0 0.18783,0.47275 0.31139,1.05054 0.62719,2.93281 0.66522,4.38502 0.13951,5.32671 -0.36255,0.64944 -1.03465,1.1422 -1.77426,1.30081 -0.49194,0.1055 -2.31447,0.13186 -2.86641,0.0415 z"
+   id="path13219"
+   transform="rotate(-180,291.62934,264.96694)" /><path
+   style="fill:none;stroke:#602d91;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="M 102.98036,128.26705 72.64268,147.12561"
+   id="path6283" /><path
+   style="fill:none;stroke:#602d91;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 81.047036,124.67983 18.85856,30.33768"
+   id="path6283-1" /></g>
 </g>
 <metadata
    id="metadata83"><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><cc:license
-         rdf:resource="http://creativecommons.org/licenses/publicdomain/" /><dc:publisher><cc:Agent
+         rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" /><dc:publisher><cc:Agent
            rdf:about="http://openclipart.org/"><dc:title>Openclipart</dc:title></cc:Agent></dc:publisher></cc:Work><cc:License
        rdf:about="http://creativecommons.org/licenses/publicdomain/"><cc:permits
          rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
